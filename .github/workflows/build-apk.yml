@@ -16,7 +16,6 @@ jobs:
           rm -rf /tmp/aura-project
           mkdir -p /tmp/aura-project
           unzip -q AuraJinwooStore_NewApp_With_Logo.zip -d /tmp/aura-project
-run: |
           rm -rf /tmp/aura-project
           mkdir -p /tmp/aura-project
           unzip -q AuraJinwooStore_NewApp_With_Logo.zip -d /tmp/aura-project
